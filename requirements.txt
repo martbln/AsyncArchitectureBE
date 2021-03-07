@@ -1,0 +1,15 @@
+# Fast API
+fastapi
+pydantic
+uvicorn
+python-dotenv
+python-multipart
+
+# Http
+requests
+graphene-pydantic
+
+# DB
+sqlalchemy
+
+pytz
